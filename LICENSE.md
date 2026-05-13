@@ -1,4 +1,4 @@
-# 
+# smart MEV sniper bot | arbitrage-opportunities + slippage-control is the best MEV sniper bot, featuring arbitrage-opportunities and slippage-control. Fast, smart, and optimized
 
 
 
